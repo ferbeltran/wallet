@@ -1,0 +1,30 @@
+{
+    "cardResults": [{
+            "cardHolderName": "FERNANDO BELTRAN",
+            "cardNumber": "4152313108366464",
+            "cardMonth": "12",
+            "cardYear": "2021",
+            "cardCvv": "357",
+            "cardColor": null,
+            "cardType": "DEBIT"
+        },
+        {
+            "cardHolderName": "FERNANDO BELTRAN",
+            "cardNumber": "1423567846578070",
+            "cardMonth": "03",
+            "cardYear": "2020",
+            "cardCvv": "913",
+            "cardColor": null,
+            "cardType": "CREDIT"
+        },
+        {
+            "cardHolderName": "COSME FULANITO",
+            "cardNumber": "1234567890123456",
+            "cardMonth": "11",
+            "cardYear": "2025",
+            "cardCvv": "343",
+            "cardColor": null,
+            "cardType": "DEBIT"
+        }
+    ]
+}
